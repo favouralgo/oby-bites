@@ -11,7 +11,6 @@
     //Defined databasename
     define("DB_NAME", "input_dbname");
 
-    
     // Make connection
     $connection = new mysqli(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
 
