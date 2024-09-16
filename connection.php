@@ -9,7 +9,7 @@
     define("DB_PASSWORD", "");
 
     //Defined databasename
-    define("DB_NAME", "wooxtravel");
+    define("DB_NAME", "input_dbname");
 
     
     // Make connection
